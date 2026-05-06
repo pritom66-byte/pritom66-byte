@@ -33,12 +33,12 @@
 
 ### 📊 Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom66-byte&layout=compact&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom66-byte&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pritom66-byte&show_icons=true&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritom66-byte&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p>
