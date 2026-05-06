@@ -33,12 +33,9 @@
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritom66-byte&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritom66-byte&show_icons=true&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritom66-byte&theme=react-dark" />
 </p>
 
 <p>
