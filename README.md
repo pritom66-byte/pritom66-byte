@@ -55,7 +55,6 @@
 | Stage | Status |
 |-------|--------|
 | JavaScript Deep | ✅ |
-| React Fundamentals | ✅ |
 | Node.js Core | 🔄 |
 | TypeScript | 📅 |
 | PostgreSQL + Prisma | 📅 |
