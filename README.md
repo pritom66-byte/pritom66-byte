@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritom Chondro Shil</h1>
 
-<h3 align="center">Web Developer | Future Frontend Architect</h3>
+<h3 align="center">Backend Engineer | Node.js • TypeScript • PostgreSQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritom66-byte&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,29 +10,35 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Learning **React JS**
-- 🎯 Goal: Web Developer → Frontend Architect  
-- 💪 Hobbies: Gym & Coding
+- 🎯 Goal: Backend Engineer → Systems Architect
+- 🔭 Currently deep-diving: Node.js internals & system design
+- 💡 I don't just write code. I understand how it works under the hood.
 - 📫 **pritomdeveloper@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Backend**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" />
+</p>
+
+**Tools**
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
 </p>
 
 ---
 
 ### 📊 Stats
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritom66-byte&theme=react-dark" />
@@ -48,12 +54,14 @@
 
 | Stage | Status |
 |-------|--------|
-| HTML/CSS/Tailwind | ✅ |
-| JavaScript | ✅ |
-| React JS | 🔄 |
-| Next.js/TypeScript | 📅 |
+| JavaScript Deep | ✅ |
+| React Fundamentals | ✅ |
+| Node.js Core | 🔄 |
+| TypeScript | 📅 |
+| PostgreSQL + Prisma | 📅 |
+| System Design | 📅 |
 
-**React Progress:** ████████████░░░░░░░░ 60%
+**Backend Progress:** ██████████░░░░░░░░░░ 50%
 
 ---
 
@@ -69,5 +77,5 @@
 ---
 
 <p align="center">
-  <i>"Code today, architect tomorrow."</i>
+  <i>"Understand the system. Write less code. Ship with confidence."</i>
 </p>
